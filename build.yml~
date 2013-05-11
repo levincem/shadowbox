@@ -4,7 +4,7 @@
 players: [flv, html, iframe, img, qt, swf]
 
 # YES to compress the code, NO to use the source code
-compress: YES
+compress: NO
 
 # The directory to output the build to
 target: build
